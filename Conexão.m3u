@@ -1,0 +1,26 @@
+Conexão Chris 
+########################################################################## Canais | FILMES E SERIES
+
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://i3.wp.com/logos-world.net/wp-content/uploads/2023/03/Space-Logo.png?ssl=1" group-title="Canais | FILMES E SERIES",SPACE HD
+https://super-cdn.link/space/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Canais | FILMES E SERIES",TNT HD
+http://super-cdn.link/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-name="WARNER CHANNEL" tvg-logo="https://observatoriodoaudiovisual.com.br/wp-content/uploads/2020/06/unnamed-570x570.jpg" group-title="Canais | FILMES E SERIES",Warner Channel HD
+https://super-cdn.link/warnerchannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png/v1/fit/w_2500,h_1330,al_c/c66e37_aa372b2b7a8b4cc29d5095b5e3ba1e37~mv2.png" group-title="Canais | FILMES E SERIES",Tela Brasil TV
+https://stmv3.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPLnpN-YFWgefIxtd0VSzOAaM4b0t0GP27seYmvIh5ZBvEyqr-ruIiSC4&s=10" group-title="Canais | FILMES E SERIES",SONY ONE EMOCOES
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+
+
+EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj1rbENs2xafeYJQ64odyXF_pAxJoyCWek-HKayvlKmA00IGLep4MtYo&s=10" group-title="Canais | FILMES E SERIES",CHANNEL ONE 
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="Canais | FILMES E SERIES",FilmRise
+https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
