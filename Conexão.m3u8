@@ -288,7 +288,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BMV8Nbn.png" group-title="Canais | SÉRIES",Hallo Series
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Cine-Drama-en-directo-Online.png?resize=747%2C420&ssl=1" group-title="Canais | FILMES E SERIES"",Cine Dramas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEnNXzuDC-yxnlSR4uKiARgVRDnroXE1Udf_1cC6Zf33A3Kd1bYK6468&s=10" group-title="Canais | FILMES E SERIES"", Tv Investigação 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/thumbnail.jpg" group-title="Canais | FILMES E SERIES"", Tv Suspense 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ############################################################################ 
 INFANTIL
 
@@ -427,6 +434,8 @@ http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="Canais | INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtea9QwGxy9VF493sJfmGVCpgTO_4MUHsV6JznbjUtHLqFDFrvMH9qi4g&s=10" group-title="Infantil"",cartoon network
+https://super-cdn.link/cartoonnetwork/index.m3u8
 
 
 ############################################################################ 
