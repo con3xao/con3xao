@@ -191,21 +191,21 @@ https://cdn-2.nxplay.com.br/europaplay/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/x13Zoz1.png" group-title="FILMES E SERIES",Dark Flix
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
 
-#EXTINF:-1  tvg-logo="https://imgur.com/u8XN65I.png" group-title="FILMES E SERIES",CHANNEL ONE 
+#EXTINF:-1 tvg-logo="https://imgur.com/u8XN65I.png" group-title="FILMES E SERIES",CHANNEL ONE 
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES E SERIES", FILMERISE
+#EXTINF:-1 tvg-logo="https://imgur.com/vhQi658.png" group-title="FILMES E SERIES", FILMERISE
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_001.m3u8
 
-#EXTINF:-1  tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="FILMES E SERIES",HTO FILMES
+#EXTINF:-1 tvg-logo="https://hdtvone.tv/wp-content/uploads/2018/09/cropped-HTO.tv-LOGO-HEADER-e1535917877621-1.png" group-title="FILMES E SERIES",HTO FILMES
 https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="FILMES E SERIES",TV Amor 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ab/AmorAmorsic.png" group-title="FILMES E SERIES",TV Amor 
 
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="FILMES E SERIES",FilmRise
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="FILMES E SERIES",FilmRise
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
 
-#EXTINF:-1  tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Cine-Drama-en-directo-Online.png?resize=747%2C420&ssl=1" group-title="FILMES E SERIES"", Cine Dramas
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Cine-Drama-en-directo-Online.png?resize=747%2C420&ssl=1" group-title="FILMES E SERIES"", Cine Dramas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEnNXzuDC-yxnlSR4uKiARgVRDnroXE1Udf_1cC6Zf33A3Kd1bYK6468&s=10" group-title="FILMES E SERIES"", Tv Investigação 
