@@ -593,20 +593,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJHRcfo.png" group-title="INFANTIL 24 HORAS",Turma da Mônica 24 Horas 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEkhKLveS8k1CtxySvUxi7KptEb5rzG0guGg&usqp=CAU" group-title="INFANTIL 24 HORAS",3 Palavrinhas
-https://p2.hostinggonemoreso1.com:2082/Tourobox1-YyJqYIKUPa/Pn26dF7RA9/670
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXIstcUqqFnWEod7Dy_5rG8fnVV3zsj9pDSQ&usqp=CAU" group-title="INFANTIL 24 HORAS",Aladdin 
-https://p2.hostinggonemoreso1.com:2082/Tourobox1-YyJqYIKUPa/Pn26dF7RA9/676
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTjaycj3kQfTxZHa4USzv-JRO-a5txpr2Wg&s" group-title="INFANTIL 24 HORAS",As Aventuras Do Batman 
-https://p2.hostinggonemoreso1.com:2082/Tourobox1-YyJqYIKUPa/Pn26dF7RA9/677
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmoGo1BCC_a1o7xE8h52BXwgSkbVBaF0T_ng&usqp=CAU" group-title="INFANTIL 24 HORAS",Ben 10
-https://p2.hostinggonemoreso1.com:2082/Tourobox1-YyJqYIKUPa/Pn26dF7RA9/678
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUmgQ0tHYar3gMtcTqEsd8-3xjdJHo52-AUFZ1lrofh3opc-oeqMKqqU&s=10" group-title="INFANTIL 24 HORAS",Liga Da Justiça 
-https://p2.hostinggonemoreso1.com:2082/Tourobox1-YyJqYIKUPa/Pn26dF7RA9/701
