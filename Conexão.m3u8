@@ -237,6 +237,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="FILMES E SERIES",Filmes Suspense 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+#EXTINF:-1 tvg-logo="https://bravi.tv/wp-content/uploads/2016/12/europa-filmes-214x214.png" group-title="FILMES E SERIES",Play Filmes Nacionais 
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
+
+
 ######################################################
 SERIES
 
@@ -431,6 +435,9 @@ http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtea9QwGxy9VF493sJfmGVCpgTO_4MUHsV6JznbjUtHLqFDFrvMH9qi4g&s=10" group-title="INFANTIL",Cartoon Network 
 https://super-cdn.link/cartoonnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL", Discovery Kids
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
 
 ############################################################################ 
 NOVELAS
