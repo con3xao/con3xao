@@ -2,8 +2,17 @@
 ########################################################################## 
 FILMES E SERIES
 
-#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="FILMES E SERIES",Cine Canal 
-http://hzcdn.vood.top:80/hls/601_.m3u8
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/671670c07d96d_5f6aed7245709cfbe81d9d7e7fddbbcf.png" group-title="FILMES E SERIES",Hallo! Séries 
+https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/67166f6f22c67_fe7d37e295e1a2d39d9fac64da91240e.png" group-title="FILMES E SERIES",Hallo! Movies 
+https://cdn-3.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png" group-title="FILMES E SERIES",Hallo! Plus 
+https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png" group-title="FILMES E SERIES",Hallo! Classic 
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",SPACE HD
 https://super-cdn.link/space/index.m3u8
@@ -243,9 +252,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="FILMES E SERIES",Cine Terror 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpz_rnaoSTCPrReiTmAz_5MSYAhG8HczcVYw&s" group-title="FILMES E SERIES",Cine Canal 
+http://hzcdn.vood.top:80/hls/601_.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="FILMES E SERIES",Filmes Suspense 
