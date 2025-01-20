@@ -508,6 +508,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007
 #EXTINF:-1  tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="NOVELAS", Novelas Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="NOVELAS"",WORDING TV
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="NOVELAS",Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
@@ -582,9 +585,6 @@ https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/loadingamarelo.png" group-title="ANIMES"",Loading TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C5nMqAf.png" group-title="ANIMES"",WORDING TV
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1264551258.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMMtJ8F.png" group-title="ANIMES"",Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
