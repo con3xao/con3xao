@@ -493,15 +493,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3f
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p7tvqin.png" group-title="NOVELAS",Novelando HD
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/tzYimlq.png" group-title="NOVELAS",Os Dez Mandamentos 
-https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mandamentos.m3u8
-
 #EXTINF:-1 tvg-id="malhacao-fast" tvg-name="malhacao-fast" tvg-logo="https://imgur.com/0gDjNFs.png" group-title="NOVELAS",Malhação Fast
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/851wj7w.png" group-title="NOVELAS",A Escrava_Isaura
-https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/EBkFVPb.png" group-title="NOVELAS",TELEVISA
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
