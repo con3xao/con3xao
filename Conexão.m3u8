@@ -707,77 +707,80 @@ https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "ESPORTES",SporTV 3 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate HD
+######################################################
+UFC 
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate FHD
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/123
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate FHD²
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate FHD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="UFC",UFC Fightpass HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/134
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="UFC",UFC Fightpass FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1121
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="ESPORTES",Premiere Clubes HD
+######################################################
+PREMIERE
+
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="ESPORTES",Premiere Clubes HD²
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD²
 https://cr7v.short.gy/M/CLUBE1HD/Index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="ESPORTES",Premiere Clubes HD³
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD³
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/148
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="ESPORTES",Premiere Clubes 4k
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes 4k
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1003
 
-
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="ESPORTES",Premiere 2 HD
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE",Premiere 2 HD
 https://super-cdn.link/premiere2/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="ESPORTES",Premiere 2 FHD
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE",Premiere 2 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/150
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="ESPORTES",Premiere 2 FHD [Alter]
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="https://i.imgur.com/Sa86nNV.png" group-title="PREMIERE",Premiere 2 FHD [Alter]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/149
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="ESPORTES",Premiere 3 HD
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/152
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="ESPORTES",Premiere 3 HD²
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 HD²
 https://super-cdn.link/premiere3/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="ESPORTES",Premiere 3 FHD
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/153
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="ESPORTES",Premiere 4 HD
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
 
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="ESPORTES",Premiere 4 HD²
+#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD²
 https://super-cdn.link/premiere4/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="ESPORTES",Premiere 4 FHD
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
 
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="ESPORTES",Premiere 5 HD
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="PREMIERE",Premiere 5 HD
 https://super-cdn.link/premiere5/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="ESPORTES",Premiere 5 FHD 
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="PREMIERE",Premiere 5 FHD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/156
 
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="ESPORTES",Premiere 6 HD
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="PREMIERE",Premiere 6 HD
 https://super-cdn.link/premiere6/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="ESPORTES",Premiere 6 FHD
+#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="PREMIERE",Premiere 6 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/158
 
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="ESPORTES",Premiere 7 HD
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="PREMIERE",Premiere 7 HD
 https://super-cdn.link/premiere7/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="ESPORTES",Premiere 7 FHD
+#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="PREMIERE",Premiere 7 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
-
-https://epgshare01.online/epgshare01/
