@@ -787,3 +787,24 @@ https://super-cdn.link/premiere7/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-name="PREMIERE 7 HD" tvg-logo="https://i.imgur.com/XqTjkAw.png" group-title="PREMIERE",Premiere 7 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnw-kFDSHxJ_bTTUkZmdhcQRd1AmLqRt83Q&usqp=CAU" group-title="ESPORTES", ELEVEN SPORTS 1 
+https://ay.is-a-anarchist.com:8000/wpFGxkRwLt/YhStS3d5ah/481366
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnw-kFDSHxJ_bTTUkZmdhcQRd1AmLqRt83Q&usqp=CAU" group-title="ESPORTES", ELEVEN SPORTS 2
+https://ay.is-a-anarchist.com:8000/wpFGxkRwLt/YhStS3d5ah/481367
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnw-kFDSHxJ_bTTUkZmdhcQRd1AmLqRt83Q&usqp=CAU" group-title="ESPORTES", ELEVEN SPORTS 3
+https://ay.is-a-anarchist.com:8000/wpFGxkRwLt/YhStS3d5ah/481368
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnw-kFDSHxJ_bTTUkZmdhcQRd1AmLqRt83Q&usqp=CAU" group-title="ESPORTES", ELEVEN SPORTS 4
+https://ay.is-a-anarchist.com:8000/wpFGxkRwLt/YhStS3d5ah/481369
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRnw-kFDSHxJ_bTTUkZmdhcQRd1AmLqRt83Q&usqp=CAU" group-title="ESPORTES", ELEVEN SPORTS 5
+https://ay.is-a-anarchist.com:8000/wpFGxkRwLt/YhStS3d5ah/481370
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7TW1vljxHxuUcJ12pI1OjEiDUisheuuXE-1DWComE22tE4AyetEOgG40&s=10" group-title="ESPORTES",  Conmebol 
+https://ay.is-a-anarchist.com:8000/BenjaminNew/CWvxxxfPNW/480349
