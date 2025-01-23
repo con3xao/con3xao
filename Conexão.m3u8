@@ -1,12 +1,14 @@
 #EXTM3U 
-########################################################################## 
+url-tvg=""
+
+######################################################
 FILMES & SERIES
 
 
-#EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/671670c07d96d_5f6aed7245709cfbe81d9d7e7fddbbcf.png" group-title="FILMES E SERIES",Hallo! Séries 
+#EXTINF:-1 tvg-id="Hallo! Séries " tvg-name="Hallo! Séries" tvg-logo="https://nxplay-images.comets.com.br/resize/671670c07d96d_5f6aed7245709cfbe81d9d7e7fddbbcf.png" group-title="FILMES E SERIES",Hallo! Séries 
 https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://nxplay-images.comets.com.br/resize/67166f6f22c67_fe7d37e295e1a2d39d9fac64da91240e.png" group-title="FILMES E SERIES",Hallo! Movies 
+#EXTINF:-1 tvg-id="Hallo! Movies" tvg-name="Hallo! Movies" tvg-logo="https://nxplay-images.comets.com.br/resize/67166f6f22c67_fe7d37e295e1a2d39d9fac64da91240e.png" group-title="FILMES E SERIES",Hallo! Movies 
 https://cdn-3.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/6712cb9d27872_d201898ec6c98e84b8e83ab006390217.png" group-title="FILMES E SERIES",Hallo! Plus 
