@@ -698,9 +698,6 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 #EXTINF:- 1 tvg-logo="https://i.imgur.com/bwqLqyg.png"group-title="ESPORTES",SporTV HD 
 https://cr7v.short.gy/manoitv/sptv/75991634025/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV HD²
-https://cr7v.short.gy/manoitv/sptvextra/75991634025/index.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV 4k 
 https://cr7v.short.gy/manoitv/sptv4k/75991634025/index.m3u8
 
@@ -709,3 +706,18 @@ https://super-cdn.link/sportv2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "ESPORTES",SporTV 3 FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate HD
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/123
+
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="ESPORTES",Combate FHD²
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass HD
+http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/134
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="ESPORTES",UFC Fightpass FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1121
