@@ -629,6 +629,35 @@ https://super-cdn.link/cartoonnetwork/index.m3u8
 ######################################################
 INFANTIL 24 HORAS 
 
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",Mickey Mouse 24 Horas
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/671
+
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",HE-MAN 24 Horas 
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/694
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",HOMEM ARANHA 24 Horas
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/695
+
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",LIGA DA JUSTIÇA 24 Horas 
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/701
+
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",OS SIMPSONS 24 Horas 
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/710
+
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",PATO DONALD 24 Horas 
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/712
+
+
+#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",PEPPA PIG 24 Horas
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/713
+
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",PERNALONGA 24 Horas
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/715
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="INFANTIL 24 HORAS",PICA PAU 24 Horas 
+http://84.16.252.219:2082/Tourobox1-15azqjgFuL/TGu8jqyfTD/716
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/colorLogoPNG.png" group-title="INFANTIL 24 HORAS",Baby Shark 24 Horas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
