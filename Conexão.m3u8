@@ -521,7 +521,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41a
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="INFANTIL",Discovery Kids 
-http://15.235.50.115:14561/DiscoveryKids
+https://super-cdn.link/discoverykids/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="INFANTIL",Discovery Kids²
