@@ -448,6 +448,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 ######################################################
 INFANTIL
 
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo FHD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo FHD²
+http://ust.lat:80/sabryne31/310109t/100487
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo HD
+http://ust.lat:80/sabryne31/310109t/10648
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo HD²
+http://ust.lat:80/sabryne31/310109t/100488
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo SD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
+http://ust.lat:80/sabryne31/310109t/100489
+
 #EXTINF:-1 tvg-logo="https://imgur.com/x0Ugzq4.png" group-title="INFANTIL",Dora A aventura
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
