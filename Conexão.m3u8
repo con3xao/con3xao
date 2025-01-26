@@ -696,17 +696,71 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="ESPORTES",ESPN 5 HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
-#EXTINF:- 1 tvg-logo="https://i.imgur.com/bwqLqyg.png"group-title="ESPORTES",SporTV HD 
-https://cr7v.short.gy/manoitv/sptv/75991634025/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GE Fast FHD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast FHD
+http://ust.lat:80/sabryne31/310109t/221506
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="ESPORTES",Combate FHD
+http://ust.lat:80/sabryne31/310109t/16866
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="ESPORTES",Combate FHD²
+http://ust.lat:80/sabryne31/310109t/35444
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="ESPORTES",Combate HD
+http://ust.lat:80/sabryne31/310109t/6625
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="ESPORTES",Combate HD²
+http://ust.lat:80/sabryne31/310109t/6871
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="ESPORTES",Combate SD
+http://ust.lat:80/sabryne31/310109t/6624
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="ESPORTES",Combate SD²
+http://ust.lat:80/sabryne31/310109t/10851
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports FHD
+http://ust.lat:80/sabryne31/310109t/6638
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD²" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports FHD²
+http://ust.lat:80/sabryne31/310109t/16879
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports HD" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports HD
+http://ust.lat:80/sabryne31/310109t/10865
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports HD²" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports HD²
+http://ust.lat:80/sabryne31/310109t/35414
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports SD" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports SD
+http://ust.lat:80/sabryne31/310109t/6637
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports SD²" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports SD²
+http://ust.lat:80/sabryne31/310109t/10866
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV FHD
+http://ust.lat:80/sabryne31/310109t/28649
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD²" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV FHD²
+http://ust.lat:80/sabryne31/310109t/61638
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV HD
+http://ust.lat:80/sabryne31/310109t/10819
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD²" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV HD²
+http://ust.lat:80/sabryne31/310109t/61637
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV SD
+http://ust.lat:80/sabryne31/310109t/6586
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD²" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV SD²
+http://ust.lat:80/sabryne31/310109t/10820
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FHD" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF FHD
+http://ust.lat:80/sabryne31/310109t/16833
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FHD²" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF FHD²
+http://ust.lat:80/sabryne31/310109t/100454
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF HD
+http://ust.lat:80/sabryne31/310109t/6519
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD²" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF HD²
+http://ust.lat:80/sabryne31/310109t/10726
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF SD
+http://ust.lat:80/sabryne31/310109t/6418
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD²" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF SD²
+http://ust.lat:80/sabryne31/310109t/10727
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="ESPORTES",SporTV 4k 
-https://cr7v.short.gy/manoitv/sptv4k/75991634025/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="ESPORTES",SporTV 2 HD
-https://super-cdn.link/sportv2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "ESPORTES",SporTV 3 FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/175
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight TV" tvg-logo="https://imgur.com/a/12NmICM" group-title="ESPORTES",UFC  Fight TV
+http://ust.lat:80/sabryne31/310109t/217457
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight Pass" tvg-logo="https://imgur.com/a/12NmICM" group-title="ESPORTES",UFC  Fight Pass
+http://ust.lat:80/sabryne31/310109t/217462
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight Pass 2" tvg-logo="https://imgur.com/a/12NmICM" group-title="ESPORTES",UFC  Fight Pass 2
+http://ust.lat:80/sabryne31/310109t/221346
+#EXTINF:-1 tvg-id="" tvg-name="TV Nsports 24h" tvg-logo="https://i.imgur.com/bsADcBc.png" group-title="ESPORTES",TV Nsports 24h
+http://ust.lat:80/sabryne31/310109t/180820
+#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="Fight TV FHD" tvg-logo="" group-title="ESPORTES",Fight TV FHD
+http://ust.lat:80/sabryne31/310109t/168152
+#EXTINF:-1 tvg-id="" tvg-name="GE Fast SD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast SD
+http://ust.lat:80/sabryne31/310109t/254018
+#EXTINF:-1 tvg-id="" tvg-name="GE Fast HD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast HD
+http://ust.lat:80/sabryne31/310109t/254017
 
 ######################################################
 UFC 
