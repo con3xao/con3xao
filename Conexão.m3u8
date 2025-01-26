@@ -448,13 +448,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 ######################################################
 INFANTIL
 
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo FHD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo FHD²
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo FHD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo FHD²
 http://ust.lat:80/sabryne31/310109t/100487
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo HD
+
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo HD
 http://ust.lat:80/sabryne31/310109t/10648
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo HD²
+
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo HD²
 http://ust.lat:80/sabryne31/310109t/100488
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo SD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIS",Zoomoo SD
+
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo SD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo SD
 http://ust.lat:80/sabryne31/310109t/100489
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x0Ugzq4.png" group-title="INFANTIL",Dora A aventura
