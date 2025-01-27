@@ -448,16 +448,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 ######################################################
 INFANTIL
 
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo FHD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo FHD²
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo FHD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo FHD²
 http://ust.lat:80/sabryne31/310109t/100487
 
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo HD
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo HD
 http://ust.lat:80/sabryne31/310109t/10648
 
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD²" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo HD²
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo HD²
 http://ust.lat:80/sabryne31/310109t/100488
 
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo SD" tvg-logo="https://fivetv.xyz/logos/zoomoo.png" group-title="INFANTIL",Zoomoo SD
+#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo SD
 http://ust.lat:80/sabryne31/310109t/100489
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zQhOJhT.png" group-title="INFANTIL",CINEMINHA
@@ -479,11 +479,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="INFANTIL",TV Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD" tvg-logo="https://fivetv.xyz/logos/gloob.png" group-title="INFANTIL",Gloob FHD
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD
 http://ust.lat:80/sabryne31/310109t/21128
 
 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD²" tvg-logo="https://fivetv.xyz/logos/gloob.png" group-title="INFANTIL",Gloob FHD²
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD²
 http://ust.lat:80/sabryne31/310109t/35435
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="INFANTIL",Disney Channel HD
@@ -517,7 +517,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcf
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="INFANTIL",Discovery Kids 
 https://super-cdn.link/discoverykids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://fivetv.xyz/logos/discoverykids.png" group-title="INFANTIL",Discovery Kids FHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/d/d9/Discovery_Kids_2021.png/revision/latest/scale-to-width/360?cb=20220227141024&path-prefix=pt-br" group-title="INFANTIL",Discovery Kids FHD
 http://ust.lat:80/sabryne31/310109t/6956
 
 #EXTINF:-1 cuid="182" tvg-chno="190" tvg-name="" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_onC7ezY_pGDRgGYewaM8GodJx5fFo8eYBbQDo7i-znmwM8xCJMH-kPpDhnRk6kc9Q=w0" group-title="INFANTIL",SBT + Criança 
@@ -798,22 +798,22 @@ http://ust.lat:80/sabryne31/310109t/217457
 #EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight Pass" tvg-logo="https://imgur.com/a/12NmICM" group-title="UFC",UFC  Fight Pass
 http://ust.lat:80/sabryne31/310109t/217462
 
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate FHD⁴
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate FHD⁴
 http://ust.lat:80/sabryne31/310109t/16866
 
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate FHD³
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate FHD³
 http://ust.lat:80/sabryne31/310109t/35444
 
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate HD³
 http://ust.lat:80/sabryne31/310109t/6625
 
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate HD²
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate HD²
 http://ust.lat:80/sabryne31/310109t/6871
 
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate SD
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate SD
 http://ust.lat:80/sabryne31/310109t/6624
 
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD²" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate SD²
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate SD²
 http://ust.lat:80/sabryne31/310109t/10851
 
 
