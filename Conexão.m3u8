@@ -81,10 +81,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="FILMES E SERIES",Telecine Premium FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/307
 
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="FILMES E SERIES",Telecine Touch HD
+#EXTINF:-1 tvg-id="telecine-touch" tvg-name="telecine-touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="FILMES E SERIES",Telecine Touch HD
 https://super-cdn.link/telecinetouch/index.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-name="TELECINE TOUCH" tvg-logo="https://i.imgur.com/viw732w.png" group-title="FILMES E SERIES",Telecine Touch FHD
+#EXTINF:-1 tvg-id="telecine-touch" tvg-name="telecine-touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="FILMES E SERIES",Telecine Touch FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="FILMES E SERIES",Telecine Cult HD
@@ -184,7 +184,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
 https://abrir.me/gncXj?ManoTV
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="FILMES E SERIES",Tela Brasil TV
