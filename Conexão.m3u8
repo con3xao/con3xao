@@ -63,7 +63,7 @@ http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 
-#EXTINF:-1 tvg-logo="https://imgur.com/bytVf9x.png" group-title="FILMES E SERIES",USA Network HD
+#EXTINF:-1 tvg-id="usa" tvg-name="usa" tvg-logo="https://imgur.com/bytVf9x.png" group-title="FILMES E SERIES",USA Network HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://imgur.com/oj2sWRk.png" group-title="FILMES E SERIES",Syfy HD
@@ -551,7 +551,7 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IbCiig8.png" group-title="INFANTIL",Kid Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="INFANTIL", Kuriakos Kids
+#EXTINF:-1 tvg-id="https://KuriakosTV.pt" tvg-name="Kuriakos TV" tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="INFANTIL", Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gloobinho" tvg-name="gloobinho" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="INFANTIL",GLOOBINHO HD
@@ -728,7 +728,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/142
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPORTES",ESPN 5 HD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="ESPORTES",ESPN 5 HD²
+#EXTINF:-1 tvg-id="ESPN 5" tvg-name=" ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="ESPORTES",ESPN 5 HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
 #EXTINF:-1 tvg-id="" tvg-name="GE Fast FHD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast FHD
@@ -869,7 +869,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/150
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/149
 
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 HD²
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-name="premiere 3 hd" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 HD²
 https://super-cdn.link/premiere3/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="https://i.imgur.com/vdKC1eu.png" group-title="PREMIERE",Premiere 3 FHD
@@ -878,7 +878,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/153
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/155
 
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD²
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-name="premiere 4" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD²
 https://super-cdn.link/premiere4/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 FHD
