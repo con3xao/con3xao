@@ -509,13 +509,13 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/352
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="INFANTIL",Disney Channel FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/351
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="INFANTIL",Nickelodeon HD
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://imgur.com/vYFZ98f.png" group-title="INFANTIL",Nickelodeon HD
 https://super-cdn.link/nickelodeon/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="INFANTIL",Nickelodeon FHD
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://imgur.com/vYFZ98f.png" group-title="INFANTIL",Nickelodeon FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/768
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="INFANTIL",Nick Jr.
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="nick jr. hd" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png" group-title="INFANTIL",Nick Jr.
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 
@@ -528,10 +528,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf00074
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/6202a7fcfb1b100008811f54/colorLogoPNG.png" group-title="INFANTIL",Nickelodeon Rocket Power
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="INFANTIL",Discovery Kids 
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids hd" logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="INFANTIL",Discovery Kids 
 https://super-cdn.link/discoverykids/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/d/d9/Discovery_Kids_2021.png/revision/latest/scale-to-width/360?cb=20220227141024&path-prefix=pt-br" group-title="INFANTIL",Discovery Kids FHD
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids hd" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/d/d9/Discovery_Kids_2021.png/revision/latest/scale-to-width/360?cb=20220227141024&path-prefix=pt-br" group-title="INFANTIL",Discovery Kids FHD
 http://ust.lat:80/sabryne31/310109t/6956
 
 #EXTINF:-1 cuid="182" tvg-chno="190" tvg-name="" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_onC7ezY_pGDRgGYewaM8GodJx5fFo8eYBbQDo7i-znmwM8xCJMH-kPpDhnRk6kc9Q=w0" group-title="INFANTIL",SBT + Criança 
