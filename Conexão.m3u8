@@ -172,7 +172,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/262
 #EXTINF:-1 tvg-id="HBO Family" tvg-logo="https://imgur.com/2dINPFY.png" group-title="FILMES E SERIES",HBO Family FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/253
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="FILMES E SERIES",HBO Xtreme FHD
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="hbo xtreme hd" tvg-logo="https://i.imgur.com/Mkxd6PK.png" group-title="FILMES E SERIES",HBO Xtreme FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/267
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="FILMES E SERIES",Studio Universal HD
@@ -184,7 +184,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/289
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
 https://abrir.me/gncXj?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/319
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png/v1/fill/w_86,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/c66e37_a7fc789f6df244b09d8e33fcbb22b2bc~mv2.png" group-title="FILMES E SERIES",Tela Brasil TV
@@ -587,7 +587,7 @@ https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="INFANTIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9lWh5bb.png" group-title="INFANTIL",ADULT SWIM FHD
+#EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://imgur.com/9lWh5bb.png" group-title="INFANTIL",ADULT SWIM FHD
 http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="INFANTIL",Ministério Infantil TV
