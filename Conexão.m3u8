@@ -493,11 +493,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b1
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="INFANTIL",TV Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD
+#EXTINF:-1 tvg-id="gloob" tvg-name="gloob" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD
 http://ust.lat:80/sabryne31/310109t/21128
 
 
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob FHD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD²
+#EXTINF:-1 tvg-id="gloob" tvg-name="gloob" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD²
 http://ust.lat:80/sabryne31/310109t/35435
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="INFANTIL",Disney Channel HD
@@ -556,25 +556,25 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qSC5fSZ.png" group-title="INFANTIL", Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="INFANTIL",GLOOBINHO HD
+#EXTINF:-1 tvg-id="gloobinho" tvg-name="gloobinho" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="INFANTIL",GLOOBINHO HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/360
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="INFANTIL",RA TIM BUM FHD
+#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-name="TV RA TIM BUM" tvg-logo="https://imgur.com/dO4krB3.png" group-title="INFANTIL",RA TIM BUM HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/557
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="INFANTIL",Nick jr. HD
+#EXTINF:-1 tvg-id="NICK JR" tbg-name="NICK JR" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="INFANTIL",Nick jr. HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/364
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="INFANTIL",Nick jr. HD
+#EXTINF:-1 tvg-id="NICK JR" tbg-name="NICK JR" tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png" group-title="INFANTIL",Nick jr. HD
 https://stream1.freetv.fun/nick-jr-19.ctv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="INFANTIL",CARTOONITO FHD
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="CARTOONITO" tvg-logo="https://imgur.com/cEE3Bv1.png" group-title="INFANTIL",CARTOONITO FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/344
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="INFANTIL",Baby TV HD
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://imgur.com/YX13GV0.png" group-title="INFANTIL",Baby TV HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/342
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YX13GV0.png" group-title="INFANTIL",Baby TV FHD
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABYTV" tvg-logo="https://imgur.com/YX13GV0.png" group-title="INFANTIL",Baby TV FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/767
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/OISSYsj.png" group-title="INFANTIL",TRU TV
@@ -595,7 +595,7 @@ http://cdn33.cc:80/patrickpimentel/topip2010/199850.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JVrZFk.png" group-title="INFANTIL",Ministério Infantil TV
 http://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtea9QwGxy9VF493sJfmGVCpgTO_4MUHsV6JznbjUtHLqFDFrvMH9qi4g&s=10" group-title="INFANTIL",Cartoon Network 
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tbg-name="cartoon network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtea9QwGxy9VF493sJfmGVCpgTO_4MUHsV6JznbjUtHLqFDFrvMH9qi4g&s=10" group-title="INFANTIL",Cartoon Network 
 https://super-cdn.link/cartoonnetwork/index.m3u8
 
 
