@@ -1,22 +1,6 @@
-#EXTM3U 
-Epg-url="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,
-
-https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 
 
-https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,
-
-https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,
-
-https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,
-
-https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,
-
-https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,
-
-https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,
-
-https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz"
 ######################################################
 FILMES E SERIES
 
