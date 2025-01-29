@@ -347,14 +347,14 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/770kcRF.png" group-title="NOVELAS",Televisa novelas Itálias
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="NOVELAS", Novelas Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="NOVELAS", Novelas Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="NOVELAS", Novelas Romance
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="NOVELAS", Novelas Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="NOVELAS",Telemundo Telenovelas
+#EXTINF:-1 tvg-id="5cf96cc422df39f1a338d165" tvg-name="Telemundo telenovelas clásicas" tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="NOVELAS",Telenovelas clássicas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
 #EXTINF:-1 cuid="492" tvg-chno="492" tvg-name="TV Novelas" tvg-id="5f512365abe1f50007d3ff56" tvg-logo="https://images.pluto.tv/channels/5f512365abe1f50007d3ff56/colorLogoPNG.png" group-title="NOVELAS",TV Novelas 
@@ -369,13 +369,13 @@ http://gzcdn.vood.top:80/hls/264555_.m3u8
 ###########################################################################
  ANIMES
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000"  group-title="ANIMES", Anime All Day
+#EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000"  group-title="ANIMES", Anime All Day
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d545112-eca6-11ee-a95d-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22020bd3-ba11-41cc-b3dc-4a369d475e42&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000"  group-title="ANIMES", Crunchyroll
+#EXTINF:-1 tvg-id="65652f7fc0fc88000883537a" tvg-name="Crunchyroll" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000"  group-title="ANIMES", Crunchyroll
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65652f7fc0fc88000883537a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d54519e-eca6-11ee-c0e2-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0a7beaa0-87cc-4a96-a9ff-3df3107051d8&userId=&serverSideAds=true
 
-#EXTINF:0 tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png"  group-title="ANIMES", Sailor Moon
+#EXTINF:-1 tvg-id="637e55347427a40007fac703" tvg-name="Sailor Moon" tvg-logo="https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png"  group-title="ANIMES", Sailor Moon
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/637e55347427a40007fac703/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d545234-eca6-11ee-8a7a-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc4d20c5-3662-4090-87e3-0453121b3c1c&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="63988a50be012600070f5db3" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/5f4ec10ed9636f00089b8c89/colorLogoPNG.png"  group-title="ANIMES", Yu-Gi-Oh!
@@ -390,7 +390,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc0007
 #EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG-1599153408949.png" group-title="ANIMES"",TV Animes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="ANIMES", Lupin the 3rd
+#EXTINF:-1 tvg-id="60f74ba51c82ac000776c669" tvg-name="Lupin the 3rd" tvg-logo="https://images.pluto.tv/channels/60f74ba51c82ac000776c669/colorLogoPNG.png" group-title="ANIMES", Lupin the 3rd
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5455cc-eca6-11ee-b7b9-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f257c3d8-a534-4f52-86fd-c45491c1e162&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-id="5f6df5a173d7340007c559f7" tvg-name="Naruto" tvg-logo="https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png" group-title="ANIMES"",Naruto
