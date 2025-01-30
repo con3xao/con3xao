@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/b7c052ff2029ec6846a1e5a45f489a46224d4032/PlutoTV/mx.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTVent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/b7c052ff2029ec6846a1e5a45f489a46224d4032/PlutoTV/mx.xml/all.xml"
 
 
 ######################################################
@@ -587,7 +587,7 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nxplay-images.comets.com.br/resize/65ba3aa6b33fa_e87fab2ab503a0032691e607098fb9e8.png" group-title="INFANTIL",Léo e Lully
 https://cdn-5.nxplay.com.br/LEO_E_LULLY/index.m3u8
 
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-name="Pluto TV Retro Cartoons" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="INFANTIL",RETRO CARTOON
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="INFANTIL",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="ADULTSWIM" tvg-name="adult swim" tvg-logo="https://imgur.com/9lWh5bb.png" group-title="INFANTIL",ADULT SWIM FHD
