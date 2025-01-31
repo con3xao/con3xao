@@ -66,6 +66,18 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 #EXTINF:-1 tvg-id="usa" tvg-name="usa" tvg-logo="https://imgur.com/bytVf9x.png" group-title="FILMES E SERIES",USA Network HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
+https://cdn.bk4fv.xyz:80/701228947/835156416/1288892.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL HD
+https://cdn.bk4fv.xyz:80/701228947/835156416/1263.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM FHD
+https://cdn.bk4fv.xyz:80/701228947/835156416/338504.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM HD
+https://cdn.bk4fv.xyz:80/701228947/835156416/338505.ts
+
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://imgur.com/oj2sWRk.png" group-title="FILMES E SERIES",Syfy HD
 
 #EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="FILMES E SERIES",Telecine Action HD
@@ -232,7 +244,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="Pluto TV Investigação" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEnNXzuDC-yxnlSR4uKiARgVRDnroXE1Udf_1cC6Zf33A3Kd1bYK6468&s=10" group-title="FILMES E SERIES"", Tv Investigação 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://cdn.bk4fv.xyz:80/701228947/835156416/3250288.ts
 
 #EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/thumbnail.jpg" group-title="FILMES E SERIES"", Tv Suspense 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
