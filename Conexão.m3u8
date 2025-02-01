@@ -160,10 +160,10 @@ https://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/270
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FILMES E SERIES",MEGAPIX FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN HD
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN HD
 https://super-cdn.link/axn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
 https://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/233
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO HD
