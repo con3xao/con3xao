@@ -27,14 +27,15 @@ https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png" group-title="FILMES E SERIES",Hallo! Classic 
 https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",SPACE HD
+tbn1.gstatic.com/images?q=tbn:ANd9GcQrUjO2xdfYRnUUfl0YZ1MUzgsESHYn0yOurGOJGXG5eGkLbXia" group-title="FILMES E SERIES",SPACE HD
 https://super-cdn.link/space/index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",SPACE FHD
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrUjO2xdfYRnUUfl0YZ1MUzgsESHYn0yOurGOJGXG5eGkLbXia" group-title="FILMES E SERIES",SPACE FHD
 https://super-cdn.link/space/index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="FILMES E SERIES",SPACE FHD²
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrUjO2xdfYRnUUfl0YZ1MUzgsESHYn0yOurGOJGXG5eGkLbXia" group-title="FILMES E SERIES",SPACE FHD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
+
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name=" " tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT HD 
 http://super-cdn.link/tnt/index.m3u8
