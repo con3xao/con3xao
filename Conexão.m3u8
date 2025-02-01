@@ -112,8 +112,11 @@ https://abrir.me/iNKKX?ManoTV
 #EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="FILMES E SERIES",Telecine Fun FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/301
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3XRan9EDAfM4lZ74ET1AhPkxfuCnEB8M0g&s" group-title="FILMES E SERIES", A&E
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3XRan9EDAfM4lZ74ET1AhPkxfuCnEB8M0g&s" group-title="FILMES E SERIES", A&E HD
 https://super-cdn.link/aee/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3XRan9EDAfM4lZ74ET1AhPkxfuCnEB8M0g&s" group-title="FILMES E SERIES", A&E FHD
+http://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/225
 
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="FILMES E SERIES",AMC HD
 https://abrir.me/wjCTK?ManoTV
