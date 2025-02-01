@@ -66,16 +66,16 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
 #EXTINF:-1 tvg-id="usa" tvg-name="usa" tvg-logo="https://imgur.com/bytVf9x.png" group-title="FILMES E SERIES",USA Network HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/147
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
+#EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
 http://ust.lat:80/sabryne31/310109t/258344
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL HD
 http://ust.lat:80/sabryne31/310109t/258343
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM FHD
+#EXTINF:-1 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM FHD
 http://ust.lat:80/sabryne31/310109t/10684
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM HD
 http://ust.lat:80/sabryne31/310109t/10685
 
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://imgur.com/oj2sWRk.png" group-title="FILMES E SERIES",Syfy HD
