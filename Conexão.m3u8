@@ -27,7 +27,7 @@ https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://nxplay-images.comets.com.br/resize/671657f5cd310_f7be52eb0e7ee353303543c27735cad3.png" group-title="FILMES E SERIES",Hallo! Classic 
 https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
 
-tbn1.gstatic.com/images?q=tbn:ANd9GcQrUjO2xdfYRnUUfl0YZ1MUzgsESHYn0yOurGOJGXG5eGkLbXia" group-title="FILMES E SERIES",SPACE HD
+#EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrUjO2xdfYRnUUfl0YZ1MUzgsESHYn0yOurGOJGXG5eGkLbXia" group-title="FILMES E SERIES",SPACE HD
 https://super-cdn.link/space/index.m3u8
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-name="SPACE HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrUjO2xdfYRnUUfl0YZ1MUzgsESHYn0yOurGOJGXG5eGkLbXia" group-title="FILMES E SERIES",SPACE FHD
@@ -132,15 +132,17 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/281
 
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel hd" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
 
+#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="FILMES E SERIES",Sony Channel HD
+https://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/238
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="FILMES E SERIES",Sony Channel FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/238
 
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1zH6H6QNPUNHcGmr20pv9oTSsjqge9uSGQ&s" group-title="FILMES E SERIES",FX HD
-https://super-cdn.link/fx/index.m3u8
+https://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/238
 
 
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://imgur.com/szGH75G.png" group-title="FILMES E SERIES",FX FHD
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1zH6H6QNPUNHcGmr20pv9oTSsjqge9uSGQ&s" group-title="FILMES E SERIES",FX FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
 
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX HD
@@ -150,12 +152,16 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43
 
 #EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FILMES E SERIES",MEGAPIX HD
+https://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/270
 
-#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FILMES E SERIES",MEGAPIX HD²
+#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-name="MEGAPIX HD" tvg-logo="https://imgur.com/H03jUu1.png" group-title="FILMES E SERIES",MEGAPIX FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN HD
 https://super-cdn.link/axn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
+https://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/233
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO HD
 https://abrir.me/bAGcS?ManoTV
