@@ -59,7 +59,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/320
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/783
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network HD
-http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/695.m3u8
+https://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37062.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network FHD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/276
@@ -164,7 +164,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/998
 https://super-cdn.link/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
-https://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/233
+https://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36991.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://imgur.com/IKjcTJH.png" group-title="FILMES E SERIES",HBO HD
@@ -251,39 +251,18 @@ https://cdn-1.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d14f93731e74194bccfccf86df7e019f.webp" group-title="FILMES E SERIES",FilmRise
 https://d2gjhy8g9ziabr.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/a3de8b56-aa9a-43db-8197-4fb23577ab26/0.m3u8
 
-#EXTINF:-1 tvg-id="5f1210d14ae1f80007bafb1d" tvg-name="Pluto TV Cine Drama" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Pluto-TV-Cine-Drama-en-directo-Online.png?resize=747%2C420&ssl=1" group-title="FILMES E SERIES"", pluto: Cine Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine MP Ação 01" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/1/1b/Cine_A%C3%A7%C3%A3o.jpg/revision/latest/smart/width/386/height/259?cb=20200408120921&path-prefix=pt-br" group-title="FILMES E SERIES",Cine Ação
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/68468.m3u8
 
-#EXTINF:-1 tvg-id="5f32cf37c9ff2b00082adbc8" tvg-name="Pluto TV Investigação" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEnNXzuDC-yxnlSR4uKiARgVRDnroXE1Udf_1cC6Zf33A3Kd1bYK6468&s=10" group-title="FILMES E SERIES"",pluto: Tv Investigação 
-https://cdn.bk4fv.xyz:80/701228947/835156416/3250288.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine MP Comédia 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CUo1tYqjBlteZyZhMAqSV7QZL3Bf4lGuqw&usqp=CAU" group-title="FILMES E SERIES",Cine Comédia
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/69164.m3u8
 
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/thumbnail.jpg" group-title="FILMES E SERIES"",pluto: Tv Suspense 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine MP DRAMA 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqsysevrB3nabaSrkCmyDcf8xdGU2DQ3iLlLKHgCGB76f0cWuHnn4q5w&s=10" group-title="FILMES E SERIES",Cine DRAMA 
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/69589.m3u8
 
-#EXTINF:-1 tvg-id="4677" tvg-name="Runtime Comédia" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="FILMES E SERIES",pluto: Cine Comédia 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine MP Terror 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ij_b72AhSjejjrpY86EX8GtguLwX1nxexA&s" group-title="FILMES E SERIES",Cine Terror 
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/69168.m3u8
 
-#EXTINF:-1 tvg-id="62545ed3dab4380007582f7c" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="FILMES E SERIES",pluto: Cine Comédia Romântica 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="5f171f032cd22e0007f17f3d" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="FILMES E SERIES",pluto: Cine Família 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/2048px-DC_Comics_logo.svg.png" group-title="FILMES E SERIES",DC Comics 
-http://dzcdn.vood.top:80/hls/271592_.m3u8
-
-#EXTINF:-1 tvg-id="5fa991b1f09e020007e78626" tvg-name="Pluto TV Cine Inspiração" tvg-logo="https://images.pluto.tv/channels/5fa991b1f09e020007e78626/colorLogoPNG.png" group-title="FILMES E SERIES", Pluto: Cine Inspiração 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="5f171f988ab9780007fa95ea" tvg-name="Pluto TV Cine Romance" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="FILMES E SERIES", Pluto: Cine Romance 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-#EXTINF:-1 tvg-id="5f12111c9e6c2c00078ef3bb" tvg-name="Pluto TV Cine Terror" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="FILMES E SERIES",Pluto: Cine Terror 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="5f171d3442a0500007362f22" tvg-name="Filmes Suspense" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="FILMES E SERIES", Pluto: Filmes Suspense 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 ######################################################
 SERIES
