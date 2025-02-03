@@ -692,13 +692,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 ESPORTES
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN HD 
-https://cr7v.short.gy/manoitv/spnHD/ZAP075991634025/index.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37104.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN HD²
-https://cr7v.short.gy/manoitv/spnHD²/Index.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37105.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN HD³
-https://cr7v.short.gy/manoitv/spneHD³/Index.m3u8
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/62745.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD
 https://super-cdn.link/espn2/index.m3u8
@@ -806,12 +806,6 @@ http://ust.lat:80/sabryne31/310109t/254017
 ######################################################
 UFC 
 
-#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight TV" tvg-logo="https://imgur.com/a/12NmICM" group-title="UFC",UFC  Fight TV
-http://ust.lat:80/sabryne31/310109t/217457
-
-#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="UFC  Fight Pass" tvg-logo="https://imgur.com/a/12NmICM" group-title="UFC",UFC  Fight Pass
-http://ust.lat:80/sabryne31/310109t/217462
-
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate FHD⁴
 http://ust.lat:80/sabryne31/310109t/16866
 
@@ -840,12 +834,24 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/123
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate FHD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="UFC",UFC Fightpass HD
-http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/134
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="UFC",UFC Fightpass FHD
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1121
-
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass (A)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass (A)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/100815.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 1 (C)" tvg-name="UFC Fight Pass 1 (C)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 1 (C)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/177137.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="UFC Fight Pass 1 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 1 HD (B)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/94688.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 1 HD (B)" tvg-name="UFC Fight Pass 1 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 1 HD (B)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/216546.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 1 SD (B)" tvg-name="UFC Fight Pass 1 SD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 1 SD (B)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/216545.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 2 (C)" tvg-name="UFC Fight Pass 2 (C)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 2 (C)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/177138.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 2 HD (J)" tvg-name="UFC Fight Pass 2 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 2 HD (B)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/116870.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 2 HD (B)" tvg-name="UFC Fight Pass 2 HD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 2 HD (B)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/216549.m3u8
+#EXTINF:-1 tvg-id="UFC Fight Pass 2 SD (B)" tvg-name="UFC Fight Pass 2 SD (B)" tvg-logo="https://i.imgur.com/GVyCH7T.png" group-title="Canais | Esportes",UFC Fight Pass 2 SD (B)
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/216548.m3u8
 ######################################################
 PREMIERE
 
