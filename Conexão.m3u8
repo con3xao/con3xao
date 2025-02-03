@@ -263,7 +263,8 @@ http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/69589.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="Cine MP Terror 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ij_b72AhSjejjrpY86EX8GtguLwX1nxexA&s" group-title="FILMES E SERIES",Cine Terror 
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/69168.m3u8
 
-
+#EXTINF:-1 tvg-id="Cine Suspense" tvg-name="Cine Suspense" tvg-logo="https://i.imgur.com/LfSe2jC.png" group-title="FILMES E SERIES",Cine Suspense
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/215207.m3u8
 ######################################################
 SERIES
 
@@ -366,7 +367,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3f
 https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="NOVELAS",TNT Novelas 
-http://gzcdn.vood.top:80/hls/264555_.m3u8
+https://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37041.m3u8
 
 ###########################################################################
  ANIMES
