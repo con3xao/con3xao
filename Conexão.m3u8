@@ -2,6 +2,18 @@
 
 
 ######################################################
+RECORD 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-0915xHU1M2H3Aw4z7FqylRNC4FNa47UlQ&usqp=CAU" group-title="RECORD", Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-0915xHU1M2H3Aw4z7FqylRNC4FNa47UlQ&usqp=CAU" group-title="RECORD", Record News HD²
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UUTMNIAOFGWEt_8rglWDp7TjxBzuajU0XXeAVEW86w&s" group-title="RECORD", RecordTv
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#######
+
 FILMES E SERIES
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="FILMES E SERIES",Cine SKY HD
