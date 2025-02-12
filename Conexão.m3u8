@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTVent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://i.mjh.nz/PlutoTV/br.xml,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-rytec-pt.xml.xz,https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/EPG/epg-pt.xml.gz,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo-internacional.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/globo.xml,https://raw.githubusercontent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTVent.com/rootcoder/epgtv/main/guide.xml.gz,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/all.xml,http://voxp2p.live/xmltv.php?username=918540&password=755497&output=mpegts"
 
 ######################################################
 FILMES E SERIES
@@ -6,10 +6,6 @@ FILMES E SERIES
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="FILMES E SERIES",Cine SKY HD
 http://ust.lat:80/sabryne31/310109t/122135
-
-
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 13" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="FILMES E SERIES",Cine SKY FHD
-http://cdn.srvmain.top:80/9090909090/9090909090/4908862.ts
 
 
 #EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 8" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="FILMES E SERIES",Cine SKY SD
@@ -41,9 +37,9 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/278
 http://super-cdn.link/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT FHD
-https://xci.nz:443/382914xx/123456/4118596.ts
+https://super-cdn.link/tnt/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT FHD²
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT SD
 https://xci.nz:443/382914xx/123456/4118597.ts
 
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="FILMES E SERIES",TNT Séries HD²
@@ -59,13 +55,11 @@ https://xci.nz:443/382914xx/123456/4118617.ts
 https://xci.nz:443/382914xx/123456/4118618.ts
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network HD
-http://cdn.srvmain.top:80/9090909090/9090909090/5721806.ts
+https://super-cdn.link/paramountnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721807.ts
 
-#EXTINF:-1 tvg-id="usa" tvg-name="usa" tvg-logo="https://imgur.com/bytVf9x.png" group-title="FILMES E SERIES",USA Network HD
-http://142.44.149.250:2052/mx576/2007/20255
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
 http://ust.lat:80/sabryne31/310109t/258344
@@ -124,7 +118,7 @@ http://authxplus-2.xyz:2082/Tourobox1-v0oKMmDxRi/7ScusjmO8L/225
 http://190.102.43.58:80/gleyktest1/8555474144/208150
 
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="FILMES E SERIES",AMC HD²
-http://cdn.srvmain.top:80/9090909090/9090909090/4794265.ts
+https://super-cdn.link/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="FILMES E SERIES",AMC FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/4794267.ts
@@ -138,18 +132,9 @@ http://cdn.srvmain.top:80/9090909090/9090909090/5721812.ts
 #EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="star channel hd" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721814.ts
 
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="FILMES E SERIES",Sony Channel HD
-http://142.44.149.250:2052/mx576/2007/52
-
-#EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="SONY CHANNEL" tvg-logo="https://i.imgur.com/18X62CK.png" group-title="FILMES E SERIES",Sony Channel FHD
-http://142.44.149.250:2052/mx576/2007/20233
-
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1zH6H6QNPUNHcGmr20pv9oTSsjqge9uSGQ&s" group-title="FILMES E SERIES",FX HD
 https://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37097.m3u8
 
-
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST1zH6H6QNPUNHcGmr20pv9oTSsjqge9uSGQ&s" group-title="FILMES E SERIES",FX FHD
-http://142.44.149.250:2052/mx576/2007/145
 
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="CINEMAX HD" tvg-logo="https://imgur.com/v3a4Afr.png" group-title="FILMES E SERIES",CINEMAX HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240
@@ -169,45 +154,12 @@ https://super-cdn.link/axn/index.m3u8
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/4794268.ts
 
-
-#EXTINF:-1 tvg-id="HBO 2 FHD" tvg-name="HBO 2 FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="FILMES E SERIES",HBO 2 FHD
-http://142.44.149.250:2052/mx576/2007/19528
-
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="FILMES E SERIES",HBO 2 HD
-http://142.44.149.250:2052/mx576/2007/135
-
-#EXTINF:-1 tvg-id="HBO 2 SD" tvg-name="HBO 2 SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo2.png" group-title="FILMES E SERIES",HBO 2 SD
-http://142.44.149.250:2052/mx576/2007/134
-
-#EXTINF:-1 tvg-id="HBO Family FHD" tvg-name="HBO Family FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="FILMES E SERIES",HBO Family FHD
-http://142.44.149.250:2052/mx576/2007/19530
-
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="FILMES E SERIES",HBO Family HD
-http://142.44.149.250:2052/mx576/2007/133
-
-#EXTINF:-1 tvg-id="HBO Family SD" tvg-name="HBO Family SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbofamily.png" group-title="FILMES E SERIES",HBO Family SD
-http://142.44.149.250:2052/mx576/2007/132
-
-#EXTINF:-1 tvg-id="HBO FHD" tvg-name="HBO FHD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="FILMES E SERIES",HBO FHD
-http://142.44.149.250:2052/mx576/2007/19527
-
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbo.png" group-title="FILMES E SERIES",HBO HD
-http://142.44.149.250:2052/mx576/2007/131
-
-#EXTINF:-1 tvg-id="HBO Signature SD" tvg-name="HBO Signature SD" tvg-logo="http://painelsbo.painel.life/logo/canais/hbosignature.png" group-title="FILMES E SERIES",HBO Signature 
-http://142.44.149.250:2052/mx576/2007/124
-
-#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="FILMES E SERIES",Studio Universal HD
-http://142.44.149.250:2052/mx576/2007/43
-
-#EXTINF:-1 tvg-id="Studio Universal SD" tvg-name="Studio Universal SD" tvg-logo="http://painelsbo.painel.life/logo/universalchannel.png" group-title="FILMES E SERIES",Studio Universal SD
-http://142.44.149.250:2052/mx576/2007/42
-
 #EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
 http://cdn.srvmain.top:80/316598/972436/4794323.ts
 
 #EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
 http://cdn.srvmain.top:80/316598/972436/4794324.ts
+
 
 ######################################################
 SERIES
@@ -264,142 +216,48 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe1
 https://cdn-1.nxplay.com.br/HALLOSERIES/tracks-v1a1/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 ###################################################
-Canais :: ABERTOS
+JORNALISMO 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/bpjoIpUnsM2uLx5bNnMr.png" group-title="JORNALISMO",CNN Brasil 
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1463942923.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/bpjoIpUnsM2uLx5bNnMr.png" group-title="JORNALISMO",Euronews
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band Campinas HD" tvg-logo="http://cdn.maxcdn.live:2052/images/ff8e669bca5d141ee08d6a35a7ed98cd.png" group-title="Canais :: ABERTOS",Band Campinas HD
-http://142.44.149.250:2052/mx576/2007/242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqbKOsThgokvdtfEOgDhMztxV_iGW4rG_XyA&s" group-title="JORNALISMO",Uol
+https://stitcher.pluto.tv/stitch/hls/channel/64b9370b409629000802d32blivestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=09199ec6-d1d4-11ef-a04e-52b31f7da4f7&profilesFromStream=true
 
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band Campinas SD" tvg-logo="http://server10.maxcdn.link:2052/images/ff8e669bca5d141ee08d6a35a7ed98cd.png" group-title="Canais :: ABERTOS",Band Campinas SD
-http://142.44.149.250:2052/mx576/2007/241
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk7gLIGhi8DYKOnnK6OHPS8ZnrjltxhuIT3NUXuW1LEEIG2NcA" group-title="JORNALISMO",Band news
+https://super-cdn.link/bandnews/index.m3u8
 
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News HD
-http://142.44.149.250:2052/mx576/2007/224
-
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://painelsbo.painel.life/logosiptv/noticias/bandnews.png" group-title="Canais :: NOTÍCIAS ",Band News SD
-http://142.44.149.250:2052/mx576/2007/223
-
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band SP HD" tvg-logo="http://server10.maxcdn.link:2052/images/ff8e669bca5d141ee08d6a35a7ed98cd.png" group-title="Canais :: ABERTOS",Band SP HD
-http://142.44.149.250:2052/mx576/2007/130
-
-#EXTINF:-1 tvg-id="Band SP SD" tvg-name="Band SP SD" tvg-logo="http://server10.maxcdn.link:2052/images/ff8e669bca5d141ee08d6a35a7ed98cd.png" group-title="Canais :: ABERTOS",Band SP SD
-http://142.44.149.250:2052/mx576/2007/129
-
-#EXTINF:-1 tvg-id="TV Cultura SD" tvg-name="Cultura HD" tvg-logo="http://server10.maxcdn.link:2052/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="Canais :: ABERTOS",Cultura HD
-http://142.44.149.250:2052/mx576/2007/197
-
-#EXTINF:-1 tvg-id="TV Cultura SD" tvg-name="Cultura SD" tvg-logo="http://server10.maxcdn.link:2052/images/e6da8e51b4510f9c253957d20dfd3090.png" group-title="Canais :: ABERTOS",Cultura SD
-http://142.44.149.250:2052/mx576/2007/196
-
-#EXTINF:-1 tvg-id="Globo Eptv Campinas HD" tvg-name="EPTV Campinas FHD" tvg-logo="http://server10.maxcdn.link:2052/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas FHD
-http://142.44.149.250:2052/mx576/2007/34094
-
-#EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="EPTV Campinas HD" tvg-logo="http://server10.maxcdn.link:2052/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas HD
-http://142.44.149.250:2052/mx576/2007/238
-
-#EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="EPTV Campinas HD²" tvg-logo="http://server10.maxcdn.link:2052/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas HD²
-http://142.44.149.250:2052/mx576/2007/246
-
-#EXTINF:-1 tvg-id="Globo Eptv Campinas SD" tvg-name="EPTV Campinas SD" tvg-logo="http://server10.maxcdn.link:2052/images/284ad1482d3320f48b794436267ded80.png" group-title="Canais :: ABERTOS",EPTV Campinas SD
-http://142.44.149.250:2052/mx576/2007/237
-
-#EXTINF:-1 tvg-id="Record SP HD [Alter]" tvg-name="Record Campinas  HD" tvg-logo="http://server10.maxcdn.link:2052/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: ABERTOS",Record Campinas  HD
-http://142.44.149.250:2052/mx576/2007/240
-
-#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record Campinas  HD²" tvg-logo="http://server10.maxcdn.link:2052/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: ABERTOS",Record Campinas  HD²
-http://142.44.149.250:2052/mx576/2007/68
-
-#EXTINF:-1 tvg-id="Record SP SD" tvg-name="Record Campinas  SD" tvg-logo="http://server10.maxcdn.link:2052/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: ABERTOS",Record Campinas  SD
-http://142.44.149.250:2052/mx576/2007/239
-
-#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP HD" tvg-logo="http://server10.maxcdn.link:2052/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: ABERTOS",Record SP HD
-http://142.44.149.250:2052/mx576/2007/65
-
-#EXTINF:-1 tvg-id="Record SP SD" tvg-name="Record SP SD" tvg-logo="http://server10.maxcdn.link:2052/images/c7639816c065d36a221bd7401fdf0ac9.png" group-title="Canais :: ABERTOS",Record SP SD
-http://142.44.149.250:2052/mx576/2007/64
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV HD" tvg-logo="http://server10.maxcdn.link:2052/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="Canais :: ABERTOS",RedeTV HD
-http://142.44.149.250:2052/mx576/2007/61
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://server10.maxcdn.link:2052/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="Canais :: ABERTOS",RedeTV SD
-http://142.44.149.250:2052/mx576/2007/60
-
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT  HD²" tvg-logo="http://server10.maxcdn.link:2052/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais :: ABERTOS",SBT  HD²
-http://142.44.149.250:2052/mx576/2007/73185
-
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="http://server10.maxcdn.link:2052/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais :: ABERTOS",SBT HD
-http://142.44.149.250:2052/mx576/2007/59
-
-#EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SD" tvg-logo="http://server10.maxcdn.link:2052/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="Canais :: ABERTOS",SBT SD
-http://142.44.149.250:2052/mx576/2007/58
+#EXTINF:-1 tvg-id="recordtv.sao.paulo.br" tvg-name="Record SP - Capital HD" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/wSN3Eof1MTDfut7WaX7c.png" group-title="JORNALISMO",Record SP HD
+https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
 
 
-######################################################
-GLOBO
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV HD" tvg-logo="http://server10.maxcdn.link:2052/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="JORNALISMO",RedeTV! HD
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
-#EXTINF:-1 tvg-id="Globo Inter TV Cabugi HD" tvg-name="Globo - INTER TV CABUGI" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",Globo - INTER TV CABUGI
-http://142.44.149.250:2052/mx576/2007/51601
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV SD" tvg-logo="http://server10.maxcdn.link:2052/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="JORNALISMO",RedeTV! SD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO BRASILIA HD*
-http://142.44.149.250:2052/mx576/2007/50312
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP HD" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/uInNDUeXNfJsuMBEcEoB.png" group-title="JORNALISMO",SBT SP HD
+hhttps://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
 
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO EPTV CAMPINAS HD
-http://142.44.149.250:2052/mx576/2007/50272
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/FUGHikIj31oKDMXLx7ii.png" group-title="JORNALISMO",Tv Jaguará SBT
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO EPTV SUL MINAS HD
-http://142.44.149.250:2052/mx576/2007/50258
-
-#EXTINF:-1 tvg-id="Globo Inter TV Grande Minas HD" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO GRANDE MINAS HD
-http://142.44.149.250:2052/mx576/2007/50259
-
-#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MINAS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO MINAS HD
-http://142.44.149.250:2052/mx576/2007/50261
-
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO NORDESTE HD
-http://142.44.149.250:2052/mx576/2007/50263
-
-#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO NSC FLORIANOPOLIS HD
-http://142.44.149.250:2052/mx576/2007/50264
-
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE HD
-http://142.44.149.250:2052/mx576/2007/50282
-
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE HD
-http://142.44.149.250:2052/mx576/2007/50265
-
-#EXTINF:-1 tvg-id="Globo Rbs Tv Porto Alegre HD" tvg-name="GLOBO RBS PORTO ALEGRE HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO RBS PORTO ALEGRE HD*
-http://142.44.149.250:2052/mx576/2007/50338
-
-#EXTINF:-1 tvg-id="RedeAmazonica.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO REDE AMAZONICA RONDONIA HD
-http://142.44.149.250:2052/mx576/2007/50286
-
-#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO RJ HD
-http://142.44.149.250:2052/mx576/2007/50266
-
-#EXTINF:-1 tvg-id="Globo Rpc Curitiba HD" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title=" 
-GLOBO",GLOBO RPC CURITIBA HD
-http://142.44.149.250:2052/mx576/2007/50287
-
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO SP HD
-http://142.44.149.250:2052/mx576/2007/50267
-
-#EXTINF:-1 tvg-id="Globo TV Anhanguera HD" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO TV ANHANGUERA HD
-http://142.44.149.250:2052/mx576/2007/50292
-
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO TV BAHIA HD
-http://142.44.149.250:2052/mx576/2007/50293
-
-#EXTINF:-1 tvg-id="Globo Bahia HD" tvg-name="GLOBO TV BAHIA HD*" tvg-logo="http://painelsbo.painel.life/logosiptv/globos/globosregionais.png" group-title="GLOBO",GLOBO TV BAHIA HD*
-http://142.44.149.250:2052/mx576/2007/50349
+#EXTINF:-1 tvg-id="SBT SD" tvg-name="SBT SD" tvg-logo="https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV" group-title="JORNALISMO",SBT 
+https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8?ManoTV
 
 ######################################################
 NOVELAS
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="NOVELAS",TNT Novelas HD
-http://142.44.149.250:2052/mx576/2007/122056
 
-#EXTINF:-1 tvg-id="TNTNOVELAS" tvg-name="TNT Novelas HD" tvg-logo="https://imgur.com/x9XvCqL.png" group-title="NOVELAS",TNT Novelas FHD
-http://142.44.149.250:2052/mx576/2007/122057
+#EXTINF:-1 tvg-id="viva.br  " tvg-name="Viva SD" tvg-logo="https://static.wixstatic.com/media/ac2d8e_fe3872d92b2944cfb48a8c62731e0575~mv2.png/v1/fill/w_600,h_376,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ac2d8e_fe3872d92b2944cfb48a8c62731e0575~mv2.png" group-title="NOVELAS",Viva HD
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x9XvCqL.png" group-title="NOVELAS",TNT Novelas HD
+https://super-cdn.link/tntnovelas/index.m3u8
 
 #EXTINF:-1 tvg-id="5f512365abe1f50007d3ff56" tvg-name="Pluto TV Novelas" tvg-logo="https://imgur.com/O9bIhIR.png" group-title="NOVELAS",TV NOVELAS
 https://super-cdn.link/tntnovelas/index.m3u8
@@ -433,7 +291,7 @@ https://video-solutions-ag-anacarolina-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="NOVELAS",TNT Novelas 
 http://190.102.43.58:80/gleyktest1/8555474144/208234
 
-###########################################################################
+###########################################################
  ANIMES
 
 #EXTINF:-1 tvg-id="5812b7d3249444e05d09cc49" tvg-name="Anime All Day" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvc-guide-art="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=562&q=75&w=1000"  group-title="ANIMES", Anime All Day
@@ -773,14 +631,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126
 #EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="ESPORTES",ESPN 3 4k 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/127  
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 HD²
-http://142.44.149.250:2052/mx576/2007/147
-
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN 4 HD³
 https://super-cdn.link/espn4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="ESPORTES",ESPN FHD
-http://142.44.149.250:2052/mx576/2007/27272
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="ESPORTES",ESPN 5 HD 
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140 
@@ -893,32 +747,32 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1122
 PREMIERE
 
 
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 FHD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 2 FHD
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 2 FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721734.ts
 
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 2 HD
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 2 HD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721735.ts
 
-#EXTINF:-1 tvg-id="br#premiere-2" tvg-name="Premiere 2 SD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 2 SD
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="Premiere 2" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 2 SD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721736.ts
 
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 FHD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 3 FHD
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 3 FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721737.ts
 
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 3 HD
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 3 HD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721738.ts
 
-#EXTINF:-1 tvg-id="br#premiere-3" tvg-name="Premiere 3 SD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 3 SD
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="Premiere 3" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 3 SD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721739.ts
 
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 FHD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 4 FHD
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 4 FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721740.ts
 
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 HD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 4 HD
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 4 HD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721741.ts
 
-#EXTINF:-1 tvg-id="br#premiere-4" tvg-name="Premiere 4 SD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 4 SD
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="Premiere 4" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 4 SD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721742.ts
 
-#EXTINF:-1 tvg-id="br#premiere-5-hd" tvg-name="Premiere 5 FHD" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 5 FHD
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="Premiere 5" tvg-logo="https://techzzi.site/logos/premiere/premiere.png" group-title="PREMIERE",Premiere 5 FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721743.ts
