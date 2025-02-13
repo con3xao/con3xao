@@ -3,12 +3,6 @@
 ######################################################
 FILMES E SERIES
 
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 1" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="FILMES E SERIES",Cine SKY HD
-http://ust.lat:80/sabryne31/310109t/122135
-
-
-#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="Cine SKY 8" tvg-logo="https://fivetv.xyz/logos/cinesky.png" group-title="FILMES E SERIES",Cine SKY SD
-http://ust.lat:80/sabryne31/310109t/122142
 
 #EXTINF:-1 tvg-id="Hallo! Séries " tvg-name="Hallo! Séries" tvg-logo="https://nxplay-images.comets.com.br/resize/671670c07d96d_5f6aed7245709cfbe81d9d7e7fddbbcf.png" group-title="FILMES E SERIES",Hallo! Séries 
 https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
