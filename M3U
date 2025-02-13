@@ -1,11 +1,9 @@
 
 #EXTM3U 
 
-Conexão Chris 
-########################################################################## Canais | FILMES E SERIES
 
+#######################################################
+PIAUI
 
-#EXTM3U 
-
-#EXTINF:-1 tvg-id="TV MEIO" tvg-name="#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/0/0e/Tvmeio-azul.jpg/revision/latest?cb=20240328011107&path-prefix=pt-br" group-title="PIAUI", TV MEIO (PI)
+#EXTINF:-1 tvg-id="TV MEIO" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/0/0e/Tvmeio-azul.jpg/revision/latest?cb=20240328011107&path-prefix=pt-br" group-title="PIAUI",TV MEIO (PI)
 https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8/0.m3u8
