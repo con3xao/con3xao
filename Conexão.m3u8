@@ -147,11 +147,8 @@ https://super-cdn.link/axn/index.m3u8
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/4794268.ts
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
-http://cdn.srvmain.top:80/316598/972436/4794323.ts
-
 #EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
-http://cdn.srvmain.top:80/316598/972436/4794324.ts
+https://super-cdn.link/universaltv/index.m3u8
 
 
 ######################################################
