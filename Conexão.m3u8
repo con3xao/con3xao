@@ -643,30 +643,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf6
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="INFANTIL 24 HORAS",Bob Esponja 24 Horas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="" tvg-name="DORA A AVENTUREIRA" tvg-logo="" group-title="INFANTIL 24 HORAS",DORA A AVENTUREIRA 24 Horas
-http://ust.lat:80/sabryne31/310109t/258751
-
-#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Piggley Winks" tvg-logo="" group-title="INFANTIL 24 HORAS",As Aventuras de Piggley Winks 24 Horas
-http://ust.lat:80/sabryne31/310109t/258750
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MIB Homens de Preto" tvg-logo="" group-title="INFANTIL 24 HORAS",MIB Homens de Preto 24 Horas
-http://ust.lat:80/sabryne31/310109t/257872
-
-#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro" tvg-logo="" group-title="INFANTIL 24 HORAS",Homem de Ferro
-http://ust.lat:80/sabryne31/310109t/257579
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Historias Disney" tvg-logo="" group-title="INFANTIL 24 HORAS",Historias Disney 24 Horas
-http://ust.lat:80/sabryne31/310109t/257562
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CHAVES DESENHO" tvg-logo="" group-title="INFANTIL 24 HORAS",CHAVES DESENHO 24 Horas
-http://ust.lat:80/sabryne31/310109t/257471
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24H A Familia Dracula" tvg-logo="" group-title="INFANTIL 24 HORAS",A Familia Dracula 24 Horas
-http://ust.lat:80/sabryne31/310109t/254345
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/colorLogoPNG.png" group-title="INFANTIL 24 HORAS",Cocoricó 24 Horas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
