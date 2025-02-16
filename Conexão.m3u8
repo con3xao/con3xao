@@ -675,6 +675,26 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name=" ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="ESPORTES",ESPN 5 HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
+#EXTINF:-1 tvg-id="" tvg-name="[BR] Band Sports FHD" tvg-logo="" group-title="ESPORTES",Band Sports
+http://supersonictv.live:8080/812493/376688/84942
+
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE *" tvg-logo="" group-title="ESPORTES",Copa Catarense HD
+http://supersonictv.live:8080/812493/376688/84955
+
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE 2 *" tvg-logo="" group-title="ESPORTES", Copa Catarense FHD
+http://supersonictv.live:8080/812493/376688/84956
+
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE 2 HD *" tvg-logo="" group-title="ESPORTES",Copa Catarense SD
+http://supersonictv.live:8080/812493/376688/84957
+
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA CATARINENSE HD *" tvg-logo="" group-title="ESPORTES",COPA CATARINENSE HD²
+http://supersonictv.live:8080/812493/376688/84958
+
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA DO NORDESTE *" tvg-logo="" group-title="ESPORTES", Copa do nordeste 
+http://supersonictv.live:8080/812493/376688/84959
+
+#EXTINF:-1 tvg-id="" tvg-name="[BR] COPA DO NORDESTE HD *" tvg-logo="" group-title="ESPORTES", Copa Do Nordeste HD
+http://supersonictv.live:8080/812493/376688/84962
 
 ######################################################
 UFC 
