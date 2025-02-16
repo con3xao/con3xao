@@ -63,6 +63,8 @@ https://super-cdn.link/paramountnetwork/index.m3u8
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/5721807.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/AKnxq6SlCaORqIzhY676.png" group-title="FILMES E SERIES",USA 
+https://super-cdn.link/usa/index.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
 https://super-cdn.link/comedycentral/index.m3u8
