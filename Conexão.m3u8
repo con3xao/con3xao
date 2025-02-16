@@ -67,11 +67,8 @@ http://cdn.srvmain.top:80/9090909090/9090909090/5721807.ts
 #EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
 https://super-cdn.link/comedycentral/index.m3u8
 
-#EXTINF:-1 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM FHD
-http://ust.lat:80/sabryne31/310109t/10684
-
 #EXTINF:-1 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM HD
-http://ust.lat:80/sabryne31/310109t/10685
+https://super-cdn.link/tcm/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://imgur.com/oj2sWRk.png" group-title="FILMES E SERIES",Syfy HD
 
@@ -460,16 +457,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 INFANTIL
 
 #EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo FHD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo FHD²
-http://ust.lat:80/sabryne31/310109t/100487
+https://super-cdn.link/zoomoo/index.m3u8
 
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo HD
-http://ust.lat:80/sabryne31/310109t/10648
-
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo HD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo HD²
-http://ust.lat:80/sabryne31/310109t/100488
-
-#EXTINF:-1 tvg-id="ZOOMOO HD" tvg-name="Zoomoo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmPnYJfIwSE7pACowyOxhXTZ6S5jnoiTOpUg&usqp=CAU" group-title="INFANTIL",Zoomoo SD
-http://ust.lat:80/sabryne31/310109t/100489
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zQhOJhT.png" group-title="INFANTIL",CINEMINHA
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
@@ -487,11 +476,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 tvg-id="gloob" tvg-name="gloob" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD
-http://ust.lat:80/sabryne31/310109t/21128
+https://super-cdn.link/gloob/index.m3u8
 
 
-#EXTINF:-1 tvg-id="gloob" tvg-name="gloob" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpuiL7GOxi5AbhOaTvnj2W8wuveXPtgT31Hw&s" group-title="INFANTIL",Gloob FHD²
-http://ust.lat:80/sabryne31/310109t/35435
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="INFANTIL",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
@@ -528,10 +515,7 @@ https://super-cdn.link/cartoonnetwork/index.m3u8
 https://super-cdn.link/discoverykids/index.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="discovery kids hd" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/d/d9/Discovery_Kids_2021.png/revision/latest/scale-to-width/360?cb=20220227141024&path-prefix=pt-br" group-title="INFANTIL",Discovery Kids FHD
-http://ust.lat:80/sabryne31/310109t/6956
-
-#EXTINF:-1 cuid="182" tvg-chno="190" tvg-name="" tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/_onC7ezY_pGDRgGYewaM8GodJx5fFo8eYBbQDo7i-znmwM8xCJMH-kPpDhnRk6kc9Q=w0" group-title="INFANTIL",SBT + Criança 
-https://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/214338.m3u8
+https://super-cdn.link/discoverykids/index.m3u8
 
 #EXTINF:-1 cuid="208" tvg-chno="216" tvg-name="" tvg-id="TOONCAST" tvg-logo="https://logo.iptveditor.com/tooncast.png" group-title="INFANTIL",Tooncast 
 http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/10654&f=.ts
@@ -660,13 +644,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e449
 ######################################################
 ESPORTES
 
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN HD 
-http://cdn.srvmain.top:80/9090909090/9090909090/4794554.ts
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN HD²
-http://cdn.srvmain.top:80/9090909090/9090909090/4794555.ts
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="ESPORTES",ESPN HD³
-http://cdn.srvmain.top:80/9090909090/9090909090/4794556.ts
-
 #EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="ESPORTES",ESPN 2 HD
 https://super-cdn.link/espn2/index.m3u8
 
@@ -696,95 +673,10 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140
 #EXTINF:-1 tvg-id="ESPN 5" tvg-name=" ESPN 5" tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="ESPORTES",ESPN 5 HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/134
 
-#EXTINF:-1 tvg-id="" tvg-name="GE Fast FHD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast FHD
-http://ust.lat:80/sabryne31/310109t/221506
-
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports FHD
-http://ust.lat:80/sabryne31/310109t/6638
-
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports FHD²" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports FHD²
-http://ust.lat:80/sabryne31/310109t/16879
-
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports HD" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports HD
-http://ust.lat:80/sabryne31/310109t/10865
-
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports HD²" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports HD²
-http://ust.lat:80/sabryne31/310109t/35414
-
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports SD" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports SD
-http://ust.lat:80/sabryne31/310109t/6637
-
-#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports SD²" tvg-logo="https://fivetv.xyz/logos/bandsports.png" group-title="ESPORTES",Band Sports SD²
-http://ust.lat:80/sabryne31/310109t/10866
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV FHD
-http://ust.lat:80/sabryne31/310109t/28649
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD²" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV FHD²
-http://ust.lat:80/sabryne31/310109t/61638
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV HD
-http://ust.lat:80/sabryne31/310109t/10819
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD²" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV HD²
-http://ust.lat:80/sabryne31/310109t/61637
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV SD
-http://ust.lat:80/sabryne31/310109t/6586
-
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD²" tvg-logo="http://fivetv.xyz/logos/fishtv.png" group-title="ESPORTES",Fish TV SD²
-http://ust.lat:80/sabryne31/310109t/10820
-
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FHD" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF FHD
-http://ust.lat:80/sabryne31/310109t/16833
-
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FHD²" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF FHD²
-http://ust.lat:80/sabryne31/310109t/100454
-
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF HD
-http://ust.lat:80/sabryne31/310109t/6519
-
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD²" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF HD²
-http://ust.lat:80/sabryne31/310109t/10726
-
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF SD
-http://ust.lat:80/sabryne31/310109t/6418
-
-#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF SD²" tvg-logo="http://fivetv.xyz/logos/off.png" group-title="ESPORTES",OFF SD²
-http://ust.lat:80/sabryne31/310109t/10727
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Nsports 24h" tvg-logo="https://i.imgur.com/bsADcBc.png" group-title="ESPORTES",TV Nsports 24h
-http://ust.lat:80/sabryne31/310109t/180820
-
-#EXTINF:-1 tvg-id="Ufcfightpass.br" tvg-name="Fight TV FHD" tvg-logo="" group-title="ESPORTES",Fight TV FHD
-http://cdn.srvmain.top:80/9090909090/9090909090/6038079.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="GE Fast SD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast SD
-http://ust.lat:80/sabryne31/310109t/254018
-
-#EXTINF:-1 tvg-id="" tvg-name="GE Fast HD" tvg-logo="https://imgur.com/rM0A76o" group-title="ESPORTES",GE Fast HD
-http://ust.lat:80/sabryne31/310109t/254017
 
 ######################################################
 UFC 
 
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate FHD⁴
-http://ust.lat:80/sabryne31/310109t/16866
-
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate FHD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate FHD³
-http://ust.lat:80/sabryne31/310109t/35444
-
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD" tvg-logo="https://fivetv.xyz/logos/combate.png" group-title="UFC",Combate HD³
-http://ust.lat:80/sabryne31/310109t/6625
-
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate HD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate HD²
-http://ust.lat:80/sabryne31/310109t/6871
-
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate SD
-http://ust.lat:80/sabryne31/310109t/6624
-
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-name="Combate SD²" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbv1qE_OXqBkJc8vrGpdZTGzqscbfE6NWA&s" group-title="UFC",Combate SD²
-http://ust.lat:80/sabryne31/310109t/10851
 
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate HD
