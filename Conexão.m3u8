@@ -41,20 +41,21 @@ https://abrir.me/ZAMGd?ManoTV
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel hd" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",Warner Channel FHD
 https://super-cdn.link/warnerchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO MAX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/49OV4f2rBFIM1mcO0MSG.png" group-title="FILMES E SERIES",HBO MAX HD
 https://super-cdn.link/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO MAX HD²
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/BMvHSuFt5DRrwnRGeJPP.png" group-title="FILMES E SERIES",HBO MAX HD²
 https://super-cdn.link/hbo2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO+
-https://super-cdn.link/hboplus/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO FAMILY HD
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/7xSotDEVIjgThFy8FXCk.png" group-title="FILMES E SERIES",HBO FAMILY HD
 https://super-cdn.link/hbofamily/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO SIGNATURE HD
+#EXTINF:-1 tvg-id="HBO+" tvg-name="HBO+" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/rmAvYVioqC6V5h3OxDpf.png" group-title="FILMES E SERIES",HBO+
+https://super-cdn.link/hboplus/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://storage.googleapis.com/glide-prod.appspot.com/uploads-v2/EEo4uCogwIWHRIyWIL4D/pub/WOt6eAtGqMmeNPe6rvDi.png" group-title="FILMES E SERIES",HBO SIGNATURE HD
 https://super-cdn.link/hbosignature/index.m3u8
+
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network HD
 https://super-cdn.link/paramountnetwork/index.m3u8
