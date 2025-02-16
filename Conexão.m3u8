@@ -32,9 +32,6 @@ http://super-cdn.link/tnt/index.m3u8
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT FHD
 https://super-cdn.link/tnt/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://imgur.com/kA3ov0x.png" group-title="FILMES E SERIES",TNT SD
-https://xci.nz:443/382914xx/123456/4118597.ts
-
 #EXTINF:-1 tvg-id="TNT SERIES HD" tvg-name="TNT SERIES HD" tvg-logo="https://imgur.com/vH2tkQt.png" group-title="FILMES E SERIES",TNT Séries HD²
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/314
 
@@ -42,10 +39,22 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/314
 https://abrir.me/ZAMGd?ManoTV
 
 #EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel hd" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",Warner Channel FHD
-https://xci.nz:443/382914xx/123456/4118617.ts
+https://super-cdn.link/warnerchannel/index.m3u8
 
-#EXTINF:-1 tvg-id="WARNERCHANNEL" tvg-name="warner channel hd" tvg-logo="https://imgur.com/zR0XZG7.png" group-title="FILMES E SERIES",Warner Channel 4k
-https://xci.nz:443/382914xx/123456/4118618.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO MAX HD
+https://super-cdn.link/hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO MAX HD²
+https://super-cdn.link/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO+
+https://super-cdn.link/hboplus/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO FAMILY HD
+https://super-cdn.link/hbofamily/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FILMES E SERIES",HBO SIGNATURE HD
+https://super-cdn.link/hbosignature/index.m3u8
 
 #EXTINF:-1 tvg-id="PARAMOUNT NETWORK" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://imgur.com/GPcKZ2i.png" group-title="FILMES E SERIES",Paramount Network HD
 https://super-cdn.link/paramountnetwork/index.m3u8
@@ -68,38 +77,21 @@ http://ust.lat:80/sabryne31/310109t/10685
 
 #EXTINF:-1 tvg-id="Syfy.pt" tvg-name="Syfy" tvg-logo="https://imgur.com/oj2sWRk.png" group-title="FILMES E SERIES",Syfy HD
 
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="FILMES E SERIES",Telecine Action HD
-https://xci.nz:443/382914xx/123456/4118683.ts
-
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-name="TELECINE ACTION" tvg-logo="https://imgur.com/faV3eZx.png" group-title="FILMES E SERIES",Telecine Action SD
-https://xci.nz:443/382914xx/123456/4118685.ts
-
 #EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="FILMES E SERIES",Telecine Pipoca HD
-https://xci.nz:443/382914xx/123456/4118702.ts
-
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="FILMES E SERIES",Telecine Pipoca FHD
-https://xci.nz:443/382914xx/123456/4118701.ts
+https://super-cdn.link/telecinepipoca/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="https://imgur.com/SGr7sdL.png" group-title="FILMES E SERIES",Telecine Premium FHD
-https://xci.nz:443/382914xx/123456/4118708.ts
-
-#EXTINF:-1 tvg-id="telecine-touch" tvg-name="telecine-touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="FILMES E SERIES",Telecine Touch HD
-https://xci.nz:443/382914xx/123456/4118715.ts
+https://super-cdn.link/telecinepremium/index.m3u8
 
 #EXTINF:-1 tvg-id="telecine-touch" tvg-name="telecine-touch" tvg-logo="https://i.imgur.com/viw732w.png" group-title="FILMES E SERIES",Telecine Touch FHD
-https://xci.nz:443/382914xx/123456/4118716.ts
+https://super-cdn.link/telecinetouch/index.m3u8
 
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="FILMES E SERIES",Telecine Cult HD
-https://xci.nz:443/382914xx/123456/4120367.ts
-
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-name="TELECINE CULT" tvg-logo="https://i.imgur.com/Tavo4Zl.png" group-title="FILMES E SERIES",Telecine Cult SD
-https://xci.nz:443/382914xx/123456/4118692.ts
+https://super-cdn.link/telecinecult/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="FILMES E SERIES",Telecine Fun HD
-https://xci.nz:443/382914xx/123456/4118694.ts
+https://super-cdn.link/telecinefun/index.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-name="TELECINE FUN" tvg-logo="https://i.imgur.com/eo6Js8D.png" group-title="FILMES E SERIES",Telecine Fun FHD
-https://xci.nz:443/382914xx/123456/4118696.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj3XRan9EDAfM4lZ74ET1AhPkxfuCnEB8M0g&s" group-title="FILMES E SERIES", A&E HD
 https://super-cdn.link/aee/index.m3u8
@@ -147,7 +139,7 @@ https://super-cdn.link/axn/index.m3u8
 #EXTINF:-1 tvg-id="axn.pt" tvg-name="AXN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYIkp9lAGuOLMyRJXk6Tnoc9wV6tPBNwkCBg&s" group-title="FILMES E SERIES",AXN FHD
 http://cdn.srvmain.top:80/9090909090/9090909090/4794268.ts
 
-#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD²
+#EXTINF:-1 tvg-id="UNIVERSAL TV HD" tvg-name="UNIVERSAL TV HD" tvg-logo="https://imgur.com/VwFjFMO.png" group-title="FILMES E SERIES",Universal Channel HD
 https://super-cdn.link/universaltv/index.m3u8
 
 
