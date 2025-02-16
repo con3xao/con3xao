@@ -64,10 +64,7 @@ http://cdn.srvmain.top:80/9090909090/9090909090/5721807.ts
 
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL FHD
-http://ust.lat:80/sabryne31/310109t/258344
-
-#EXTINF:-1 #EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVhsv7r8n44FpCxfPx1qhd7xgWD9FW4zAKMvycjPveyu4jqY8X" group-title="FILMES E SERIES", COMEDY CENTRAL HD
-http://ust.lat:80/sabryne31/310109t/258343
+https://super-cdn.link/comedycentral/index.m3u8
 
 #EXTINF:-1 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKq1O7B4uwgJo238Hvbae9JSP1oyd9wrJsLg&s" group-title="FILMES E SERIES",TCM FHD
 http://ust.lat:80/sabryne31/310109t/10684
