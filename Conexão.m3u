@@ -115,13 +115,13 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/228
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1020
 
 
-#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/RFfpVpXT/TCM.png" group-title="Canais | Filmes e Series",TCM HD
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="TCM HD" tvg-logo="https://i.postimg.cc/RFfpVpXT/TCM.png" group-title="FILMES E SERIES",TCM HD
 http://cdn.bk4fv.xyz:80/701228947/835156416/
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL HD
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL HD
 http://185.246.208.74:14370/
 
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="Canais | FILMES E SERIES",STAR CHANNEL FHD
+#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-name="STAR CHANNEL" tvg-logo="https://imgur.com/TCrKgcu.png" group-title="FILMES E SERIES",STAR CHANNEL FHD
 http://zutufo.in:80/live/889281840/Z451m1324a/598_.m3u8
 
 
@@ -485,6 +485,129 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 #EXTINF:-1 tvg-id="625464a945b6a200079257d1" tvg-name="Death Note" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/ed/Death_Note_Logo.png/375px-Death_Note_Logo.png" group-title="ANIMES"",Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+
+#######################################################
+VARIEDADES
+
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="https://i.imgur.com/a4lEiwk.png" group-title="VARIEDADES",Multishow HD 
+http://zutufo.in:80/live/889281840/Z451m1324a/377243_.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTCdLuw.png" group-title="VARIEDADES",MTV HD 
+http://zutufo.in:80/live/889281840/Z451m1324a/2503_.m3u8
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="https://i.imgur.com/jvvmyCv.png" group-title="VARIEDADES",BIS HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/420
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://i.imgur.com/jcgv2zs.png" group-title="VARIEDADES",Comedy Central HD
+http://zutufo.in:80/live/889281840/Z451m1324a/685_.m3u8
+
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" logo="https://i.imgur.com/xnGAZOr.png" group-title="VARIEDADES",TBS HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/291
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="VARIEDADES",Canal Brasil HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/237
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5lGDNDo.png" group-title="VARIEDADES",Canal Brasil FHD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/236
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGT50Kk.png" group-title="VARIEDADES",E! HD
+
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="VARIEDADES",E! HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/102
+
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://imgur.com/yGT50Kk.png" group-title="VARIEDADES",E! FHD
+
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="VARIEDADES",National Geographic HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/88
+
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NATGEO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="VARIEDADES",National Geographic FHD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4QWoV1Z.png" group-title="VARIEDADES",ARTE 1
+http://84.16.253.177:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/176
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLqV8bf.png" group-title="VARIEDADES",Film & Arts HD
+http://84.16.253.177:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/173
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="VARIEDADES",TLC 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2F9asSD.png" group-title="VARIEDADES",TLC HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/92
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="VARIEDADES",GNT
+
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="https://i.imgur.com/8RDEcE9.png" group-title="VARIEDADES",GNT HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/107
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="VARIEDADES",Modo Viagem HD
+http://zutufo.in:80/live/889281840/Z451m1324a/89182_.m3u8
+
+#EXTINF:-1 tvg-id="MODO VIAGEM" tvg-name="MODO VIAGEM" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="VARIEDADES",Modo Viagem HD²
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/85
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AH3uBDj.png" group-title="VARIEDADES",Food Network HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/105
+
+#EXTINF:-1 tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="VARIEDADES",ID HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/70
+
+#EXTINF:-1 tvg-id="ID" tvg-name="ID" tvg-logo="https://i.imgur.com/OJWv4Ij.png" group-title="VARIEDADES",ID FHD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/69
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="VARIEDADES",Discovery Turbo HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1022
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/lH1Srp9.png" group-title="VARIEDADES",Discovery Turbo HD²
+
+
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="VARIEDADES",Discovery World SD
+
+#EXTINF:-1 tvg-id=",Discovery World" tvg-name=",Discovery World" tvg-logo="https://i.imgur.com/6sTkahx.png" group-title="VARIEDADES",Discovery World HD²
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/78
+
+#EXTINF:-1 tvg-id="Disc. Home & Health" tvg-name="Disc. Home & Health" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="VARIEDADES",Disc. Home & Health HD
+http://84.16.253.177:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/140
+
+#EXTINF:-1 tvg-id="Disc. Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="https://i.imgur.com/VSezlWv.png" group-title="VARIEDADES",Disc. Home & Health HD²
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/68
+
+#EXTINF:-1 tvg-id="Discovery ChanneHDl" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel HD
+http://84.16.253.177:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/7
+
+#EXTINF:-1 tvg-id="Discovery channel" tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/dgGgYjc.png" group-title="VARIEDADES",Discovery Channel HD
+
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="VARIEDADES",Discovery Science HD 
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/72
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="VARIEDADES",Discovery Science FHD 
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/71
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/1Hm6dQU.png" group-title="VARIEDADES",Discovery Science HD²
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/72
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="VARIEDADES",Discovery Theater HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/74
+
+#EXTINF:-1 tvg-id="Discovery theater" tvg-name="Discovery Theater" tvg-logo="https://i.imgur.com/NUFWsJ0.png" group-title="VARIEDADES",Discovery Theater FHD
+
+
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="VARIEDADES",History HD HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/82
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://i.imgur.com/0rNNqVy.png" group-title="VARIEDADES",History HD FHD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/83
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t97qwNh.png" group-title="VARIEDADES",Animal Planet HD
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/61
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g9AtH3s.png" group-title="VARIEDADES",Curta!
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
 ######################################################
 INFANTIL
 
@@ -503,16 +626,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b1
 #EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-name="Pluto TV Kids Club" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="INFANTIL",TV Kids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="INFANTIL",GLOOB HD
 http://xenali.top:80/889281840/Z451m1324a/377230
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="INFANTIL",GLOOB FHD
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/357
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="INFANTIL",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="Canais | FILMES E SERIES",Disney Channel HD
+#EXTINF:-1 tvg-name="Disney Channel" tvg-logo="https://imgur.com/20h0JkN.png" group-title="FILMES E SERIES",Disney Channel HD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/3
 
 #EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://imgur.com/vYFZ98f.png" group-title="INFANTIL",Nickelodeon HD
@@ -715,13 +838,13 @@ http://supersonictv.live:8080/812493/376688/84962
 ######################################################
 UFC 
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate FHD
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="UFC",UFC Fightpass HD
 https://anonlive.net/ufcfightpass/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="UFC",UFC Fightpass HD²
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/1121
 
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="UFC",Combate HD
@@ -730,27 +853,27 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/1
 ######################################################
 PREMIERE
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD
 https://cr7v.short.gy/M/Clube/Index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD²
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD²
 https://cr7v.short.gy/Mi/CLUBE1HD/Index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes HD³
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes HD³
 https://cr7v.short.gy/JOG9/testechamaWhats75991634025.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="Canais | PREMIERE",Premiere Clubes FHD
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://i.imgur.com/T6VmjYB.png" group-title="PREMIERE",Premiere Clubes FHD
 http://84.16.253.177:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/2
 
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 HD
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 HD
 
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="Canais | PREMIERE",Premiere 4 FHD
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="https://i.imgur.com/n5KKEiL.png" group-title="PREMIERE",Premiere 4 FHD
 http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/4
 
-#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="Canais | PREMIERE",Premiere 5 HD 
+#EXTINF:-1 tvg-id="PREMIERE5" tvg-name="PREMIERE5" tvg-logo="https://i.imgur.com/qVVCNKG.png" group-title="PREMIERE",Premiere 5 HD 
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/178
 
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="Canais | PREMIERE",Premiere 6 HD
+#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="https://i.imgur.com/4CAJWni.png" group-title="PREMIERE",Premiere 6 HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/179
